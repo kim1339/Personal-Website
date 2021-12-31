@@ -1,4 +1,4 @@
-# New-Personal-Website
+# Personal-Website
 // under development //
 
 Simple personal webpage. Design based on [HTML5 UP](https://html5up.net/) template. [www.kimia.rostin.ca](https://www.kimia.rostin.ca)
